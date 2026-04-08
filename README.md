@@ -67,7 +67,7 @@ Como executar:
 
 Execute o script Python;
 
-python sistema_solar.py
+python sistema.py
 
 Uma janela será aberta mostrando a simulação animada do Sistema Solar.
 
